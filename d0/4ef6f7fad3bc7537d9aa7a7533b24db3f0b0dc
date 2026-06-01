@@ -1,0 +1,19 @@
+5.0/pa-IN/0x18-V9-Self-contained-Tokens.md
+  s_ae09f572dac9db::t_a3a7d7f3f2d416 1-72
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "d04ef6f7fad3bc7537d9aa7a7533b24db3f0b0dc",
+  "prompts": {},
+  "sessions": {
+    "s_ae09f572dac9db": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8eef97e8-b430-4e52-8beb-b343c3c5a1e0",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "GeeksikhSecurity <gurvinder@sayvainc.com>"
+    }
+  }
+}
