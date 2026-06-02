@@ -1,0 +1,23 @@
+5.0/pa-IN/REVIEW-PLAN.md
+  s_ae09f572dac9db::t_ca3a89ea982fc0 9-30
+5.0/pa-IN/OPEN-QUESTIONS.md
+  s_ae09f572dac9db::t_54a57ea64206bb 145-194
+5.0/pa-IN/REVIEWER-NOTES.md
+  s_ae09f572dac9db::t_fc7aa68457e72b 1-126
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "d1cff25d7e013f73cfe4f028c551c913f83ce9bb",
+  "prompts": {},
+  "sessions": {
+    "s_ae09f572dac9db": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8eef97e8-b430-4e52-8beb-b343c3c5a1e0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "GeeksikhSecurity <gurvinder@sayvainc.com>"
+    }
+  }
+}
