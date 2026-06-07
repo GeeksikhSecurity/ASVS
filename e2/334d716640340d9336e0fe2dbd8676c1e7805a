@@ -1,0 +1,38 @@
+5.0/pa-IN/0x17-V8-Authorization.md
+  ai_agent 37-40,58-61,78-80,96-97
+5.0/pa-IN/0x01-Frontispiece.md
+  ai_agent 16,22,26,65,69
+5.0/pa-IN/REVIEW-PLAN.md
+  s_cf58c4b00ea3fb::t_d8c2881275e76a 66
+5.0/pa-IN/CLAUDE.md
+  s_cf58c4b00ea3fb::t_82b9909e494598 8-13
+  s_cf58c4b00ea3fb::t_88ced7fe1ff7cc 82,84
+5.0/pa-IN/0x14-V5-File-Handling.md
+  ai_agent 28,48-53,70-72,89-91
+5.0/pa-IN/README.md
+  ai_agent 3
+5.0/pa-IN/0x21-V12-Secure-Communication.md
+  ai_agent 52-56,72-73,92-96
+5.0/pa-IN/0x18-V9-Self-contained-Tokens.md
+  ai_agent 13,34-36,58-61
+5.0/pa-IN/TRANSLATION-NOTES.md
+  s_cf58c4b00ea3fb::t_89e885a555f662 86
+5.0/pa-IN/0x02-Preface.md
+  ai_agent 6,13,17,21,24,36,40,44,51,55
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "e2334d716640340d9336e0fe2dbd8676c1e7805a",
+  "prompts": {},
+  "sessions": {
+    "s_cf58c4b00ea3fb": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3653105d-d550-4ca8-9791-7e7412030740",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "GeeksikhSecurity <gurvinder@sayvainc.com>"
+    }
+  }
+}
