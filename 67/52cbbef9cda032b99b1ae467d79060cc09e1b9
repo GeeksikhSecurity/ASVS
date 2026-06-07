@@ -1,0 +1,19 @@
+5.0/pa-IN/TRANSLATION-RULES.md
+  s_ae09f572dac9db::t_708b1057646f52 1-97
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.3",
+  "base_commit_sha": "6752cbbef9cda032b99b1ae467d79060cc09e1b9",
+  "prompts": {},
+  "sessions": {
+    "s_ae09f572dac9db": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8eef97e8-b430-4e52-8beb-b343c3c5a1e0",
+        "model": "claude-opus-4-8"
+      },
+      "human_author": "GeeksikhSecurity <gurvinder@sayvainc.com>"
+    }
+  }
+}
